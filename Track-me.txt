@@ -4,11 +4,18 @@ To start preparing an english version, a new feature branch was created
 1 - UM - ONE - UNO
 2 - DOIS - TWO - DOS
 3 - TRES - THREE - TRES
-4 - QUTRO - FOUR - CUATRO
-5 - CINCO - FIVER - CINCO
-6 - SESS -  - SEIISS
-7- SETE -  - SIETE
+4 - QUATRO - FOUR - CUATRO
+5 - CINCO - FIVE - CINCO
+6 - SEIS - SIX - SEIISS
+7 - SETE - SEVEN - SIETE
 8 - OITO - - OCHO
-9 -  -  - NUEVE
-10 - -  - DIEZ
+9 - NOVE -  - NUEVE
+10 - DEZ -  - DIEZ
 11 - -  - ONCE
+12 -
+13 - 
+14 -
+15 -
+
+
+
