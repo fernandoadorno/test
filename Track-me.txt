@@ -15,4 +15,5 @@ To start preparing an english version, a new feature branch was created
 12 - DOZE
 13 - TREZE
 14 - QUATORZE
-15 - KINZZE
+15 - QUINZE
+16 - DEZESSEIS
