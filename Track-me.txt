@@ -6,9 +6,9 @@ To start preparing an english version, a new feature branch was created
 3 - TRES - THREE - TRES
 4 - QUTRO - FOUR - CUATRO
 5 - CINCO - FIVER - CINCO
-6 - SESS -  - SEIS
+6 - SESS -  - SEIISS
 7- SETE -  - SIETE
 8 - OITO - - OCHO
-9 -  - NUEVE
-10 - - DIEZ
-
+9 -  -  - NUEVE
+10 - -  - DIEZ
+11 - -  - ONCE
