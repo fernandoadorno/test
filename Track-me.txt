@@ -6,8 +6,8 @@ To start preparing an english version, a new feature branch was created
 3 - TRES - THREE 
 4 - QUTRO - FOUR
 5 - CINCO - FIVER
-6 - SESS
-7- SETE
+6 - SESS - SIX
+7- SETE - SEVEN
 8 - OITO
 9 - 
 10 - 
