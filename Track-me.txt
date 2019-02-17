@@ -4,10 +4,10 @@ To start preparing an english version, a new feature branch was created
 1 - UM - ONE
 2 - DOIS - TWO
 3 - TRES - THREE 
-4 - QUTRO - FOUR
+4 - QUATRO - FOUR
 5 - CINCO - FIVER
-6 - SESS
-7- SETE
+6 - SEIS
+7 - SETE
 8 - OITO
 9 - 
 10 - 
