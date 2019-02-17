@@ -1,10 +1,10 @@
 FILE created  directly on DEVELOP branch.
 To start preparing an english version, a new feature branch was created
 
-1 - UM - ONE - UNO
-2 - DOIS - TWO - DOS
-3 - TRES - THREE - TRES
-4 - QUATRO - FOUR - CUATRO
+1 - UM - ONE - UNO - UN
+2 - DOIS - TWO - DOS - DEUX
+3 - TRES - THREE - TRES - troix
+4 - QUATRO - FOUR - CUATRO - quatre
 5 - CINCO - FIVE - CINCO
 6 - SEIS - SIX - SEIISS
 7 - SETE - SEVEN - SIETE
@@ -16,6 +16,3 @@ To start preparing an english version, a new feature branch was created
 13 - TREZE
 14 - QUATORZE
 15 - KINZZE
-
-
-
