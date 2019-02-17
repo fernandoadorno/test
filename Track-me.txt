@@ -4,7 +4,7 @@ To start preparing an english version, a new feature branch was created
 1 - UM - ONE - UNO - UN
 2 - DOIS - TWO - DOS - DEUX
 3 - TRES - THREE - TRES - troix
-4 - QUATRO - FOUR - CUATRO - quatre
+4 - QUATRO - FOUR - CUATRO - QUATRE
 5 - CINCO - FIVE - CINCO
 6 - SEIS - SIX - SEIS
 7 - SETE - SEVEN - SIETE
