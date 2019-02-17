@@ -1,0 +1,13 @@
+FILE created  directly on DEVELOP branch.
+To start preparing an english version, a new feature branch was created
+
+1 - UM - ONE
+2 -    - TWO
+3 -    - THREE 
+4 -    - FOUR
+5 -    - FIVER
+6
+7
+8
+9
+10
