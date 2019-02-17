@@ -6,12 +6,12 @@ To start preparing an english version, a new feature branch was created
 3 - TRES - THREE - TRES - troix
 4 - QUATRO - FOUR - CUATRO - quatre
 5 - CINCO - FIVE - CINCO
-6 - SEIS - SIX - SEIISS
+6 - SEIS - SIX - SEIS
 7 - SETE - SEVEN - SIETE
 8 - OITO - - OCHO
 9 - NOVE -  - NUEVE
 10 - DEZ -  - DIEZ
-11 - -  - ONCE
+11 - ONZE -  - ONCE
 12 -
 13 - 
 14 -
